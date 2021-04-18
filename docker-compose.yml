@@ -12,6 +12,7 @@ services:
       MEMORY: 3G
       OVERRIDE_OPS: "true"
       OPS: st3ck1
+      MOTD: "gemuesekrieg.de Minecraft Server Ga Ming"
     ports:
       - 25565:25565
     volumes:
