@@ -6,7 +6,7 @@ services:
     environment:
       EULA: "true"
       TYPE: PAPER
-      VERSION: 1.16.5
+      VERSION: 1.18.1
       # needed for Paper versions before 1.14
       CONSOLE: "false"
       MEMORY: 3G
